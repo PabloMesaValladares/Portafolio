@@ -1,4 +1,4 @@
-# En este repositorio podrás encontrar algunos scripts de mis proyectos y pruebas técnicas
+# En este repositorio podrás encontrar scripts de mis proyectos
 
 ---
 
